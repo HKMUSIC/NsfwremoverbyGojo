@@ -1,6 +1,6 @@
 # AntiNSFWRobot
 
-### A simple telegram bot to remove NSFW content from your groups powered by [@LexicaAPI](https://telegram.dog/LexicaAPI)
+### A simple telegram bot to remove NSFW content from your groups powered by [@II_YOUR_GOJO_ll](https://telegram.dog/II_YOUR_GOJO_ll)
 #### Demo [Protect your groups bot](https://telegram.me/ProtectYourGroupsRobot)
 
 ## Deploy on VPS

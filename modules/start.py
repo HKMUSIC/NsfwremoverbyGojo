@@ -14,7 +14,7 @@ async def start(_: Client, m: t.Message):
         reply_markup=t.InlineKeyboardMarkup(
             [
                 [
-                    t.InlineKeyboardButton(text="˹sᴜᴘᴘᴏʀᴛ˼",url="https://t.me/Hehe_Stalker")
+                    t.InlineKeyboardButton(text="˹sᴜᴘᴘᴏʀᴛ˼",url="https://t.me/II_YOUR_GOJO_ll")
                 ]
             ]
         )

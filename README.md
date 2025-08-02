@@ -6,7 +6,7 @@
 ## Deploy on VPS
 fill `.env` with proper values
 ```bash
-git clone https://github.com/Qewertyy/AntiNSFWRobot && cd AntiNSFWRobot
+git clone https://github.com/HKMUSIC/NsfwremoverbyGojo && cd AntiNSFWRobot
 python3 -m venv venv
 source venv/bin/activate # Linux
 .\venv\Scripts\activate # Windows
@@ -15,4 +15,4 @@ python3 bot.py
 ```
 
 ## Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Qewertyy/AntiNSFWRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/HKMUSIC/NsfwremoverbyGojo)
